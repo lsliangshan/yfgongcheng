@@ -7,6 +7,6 @@ export default {
   },
   components: {
     HomeRouter: () =>
-      import ('../components/Home.vue')
+      import('../components/Home.vue')
   }
 }

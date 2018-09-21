@@ -1,7 +1,7 @@
 {
-  "name": "src",
+  "name": "yfgongcheng",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "yfgongcheng",
   "author": "liangshan <loveliangshan@126.com>",
   "private": true,
   "scripts": {
@@ -14,20 +14,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "animejs": "^2.2.0",
-    "axios": "^0.18.0",
-    "clipboard": "^2.0.1",
-    "iview": "^3.0.1",
-    "js-base64": "^2.4.9",
-    "jsonp": "^0.2.1",
-    "marked": "^0.5.0",
-    "qrcode": "^1.2.2",
-    "qs": "^6.5.2",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1",
-    "vuedraggable": "^2.16.0",
-    "vuex": "^3.0.1",
-    "vuex-router-sync": "^5.0.0"
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

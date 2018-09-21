@@ -39,7 +39,7 @@ import {
   StorageUtil
 } from '../utils/index'
 
-const findTemplateByUUID = function(uuid, arr, deep, sub) {
+const findTemplateByUUID = function (uuid, arr, deep, sub) {
   let _deep = deep // deep为1或2
   let _sub = sub || 0
   let outIndex = [-1, -1]
@@ -61,7 +61,7 @@ const findTemplateByUUID = function(uuid, arr, deep, sub) {
 }
 
 export const mutations = {
-  [types.SET_BODY_STYLES](state, data) {
+  [types.SET_BODY_STYLES] (state, data) {
     state.bodyStyles = data.styles
   }
 }
