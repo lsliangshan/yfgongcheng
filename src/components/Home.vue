@@ -1,6 +1,6 @@
 <template>
   <div class="home_container" :style="homeStyles">
-    YF
+    YF 1
   </div>
 </template>
 <style scoped>
