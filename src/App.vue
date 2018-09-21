@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    YF2
+    YF3
     <img src="./assets/logo.png">
     <router-view/>
   </div>
