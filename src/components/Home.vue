@@ -5,11 +5,11 @@
 </template>
 <style scoped>
   .home_container {
-    position: absolute;
+    /*position: absolute;
     left: 0;
     top: 0;
     width: 100%;
-    height: 100%;
+    height: 100%;*/
     overflow-x: auto;
     display: flex;
     align-items: center;
